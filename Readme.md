@@ -1,7 +1,7 @@
 ### How to run a single process webserver:
 
 ~~~
-php -S localhost -t public
+php -S localhost:8000 -t public
 ~~~
 
 
